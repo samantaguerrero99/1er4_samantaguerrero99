@@ -2,7 +2,7 @@
 
 ## ¿Qué es Maison Du Pain?
 
-Descubre el mundo de delicias dulces en Maison Du Pain, donde la pasión y la calidad se unen para crear experiencias gastronómicas inolvidables. Nuestros productos artesanales, elaborados con los mejores ingredientes y presentados con elegancia, son una combinación perfecta de sabor y estética. Desde clásicos tradicionales hasta innovadoras creaciones gourmet, cada bocado es una obra maestra. Ven y déjate tentar por nuestros exquisitos pasteles, galletas, tartas y mucho más. ¡La satisfacción está garantizada en cada indulgencia!
+Maison Du Pain es una panadería donde la pasión y la calidad se unen para crear experiencias gastronómicas inolvidables. Nuestros productos artesanales, elaborados con los mejores ingredientes y presentados con elegancia, son una combinación perfecta de sabor y estética. Desde clásicos tradicionales hasta innovadoras creaciones gourmet, cada bocado es una obra maestra. Ven y déjate tentar por nuestros exquisitos pasteles, galletas, tartas y mucho más. ¡La satisfacción está garantizada en cada indulgencia!
 
 ### ¿Cómo está organizado el proyecto?
 
