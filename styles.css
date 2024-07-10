@@ -59,7 +59,7 @@ h1,h2 {
 /*fin reset*/
 header {
     font-family: 'KoHo';
-    background-image: url('imagenesami/Torta\ promo.jpg');
+    background-image: url('imagenesami/Torta-promo.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -84,7 +84,7 @@ nav {
     padding: 10px 20px;
 }
 /* Contenedor principal del menú */
-.container flexbox {
+.container-flexbox {
     display: flex;
     align-items: center;
     justify-content: space-between;
