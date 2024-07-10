@@ -59,7 +59,7 @@ h1,h2 {
 /*fin reset*/
 header {
     font-family: 'KoHo';
-    background-image: url('imagenesami/Torta-promo.jpg');
+    background-image: url('./img/Torta-promo.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
